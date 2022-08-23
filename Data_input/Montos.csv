@@ -1,0 +1,12 @@
+Tipo,procurementMethodDetails,mayor,menor
+Bienes_normalizados,Catálogo Electrónico,0,NaN
+Bienes, Subasta Inversa Electrónica,0,6779.95
+Bienes_normalizados, Ínfima Cuantía,0,6779.95
+Bienes,Menor Cuantía,0,67799.47	
+Bienes,Cotización,67799.47,508496.02
+Bienes,Licitación,508496.02,3000000.0
+Obras,Menor Cuantía,0,237298.14
+Obras,Cotización,237298.14,16016992.04
+Obras, Licitación,1016992.04,3000000.0
+Consultoría,Contratación Directa,0,67799.47
+Consultoría,Lista Corta,67799.47,200000.00
